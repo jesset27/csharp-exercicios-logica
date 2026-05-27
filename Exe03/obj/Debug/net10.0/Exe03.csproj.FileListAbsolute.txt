@@ -1,0 +1,15 @@
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\bin\Debug\net10.0\Exe03.exe
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\bin\Debug\net10.0\Exe03.deps.json
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\bin\Debug\net10.0\Exe03.runtimeconfig.json
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\bin\Debug\net10.0\Exe03.dll
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\bin\Debug\net10.0\Exe03.pdb
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\Exe03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\Exe03.AssemblyInfoInputs.cache
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\Exe03.AssemblyInfo.cs
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\Exe03.csproj.CoreCompileInputs.cache
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\Exe03.sourcelink.json
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\Exe03.dll
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\refint\Exe03.dll
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\Exe03.pdb
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\Exe03.genruntimeconfig.cache
+C:\Users\Jessé Willian\Desktop\csharp-exercicios-logica\Exe03\obj\Debug\net10.0\ref\Exe03.dll
