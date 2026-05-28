@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\Exe06.csproj": {}
+    "c:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\Exe06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\Exe06.csproj": {
+    "c:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\Exe06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\Exe06.csproj",
+        "projectUniqueName": "c:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\Exe06.csproj",
         "projectName": "Exe06",
-        "projectPath": "C:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\Exe06.csproj",
+        "projectPath": "c:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\Exe06.csproj",
         "packagesPath": "C:\\Users\\Jessé Willian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\obj\\",
+        "outputPath": "c:\\Users\\Jessé Willian\\Desktop\\csharp-exercicios-logica\\Exe06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jessé Willian\\AppData\\Roaming\\NuGet\\NuGet.Config"
